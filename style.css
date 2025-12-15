@@ -1,0 +1,14 @@
+#countNumber {
+  text-align: center;
+  font-size: 100px;
+}
+
+.buttonContainer {
+  text-align: center;
+}
+
+.buttonContainer button {
+  font-weight: bold;
+  font-size: 16px;
+  background-color: aqua;
+}
